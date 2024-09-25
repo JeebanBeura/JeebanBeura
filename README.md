@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @JeebanBeura
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Jeeban Beura 
 
-<!---
-JeebanBeura/JeebanBeura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate web developer who enjoys building responsive, efficient, and user-friendly applications. 
+
+## 🚀 About Me
+
+- 💻 Full-Stack Web Developer
+- 🌱 Currently learning advanced JavaScript concepts and frameworks
+- 🎨 Love working with React JS and Tailwind CSS for modern, fast web designs
+- 🤝 Available for open-source collaboration and freelance work
+
+---
+
+## 🛠 Skills & Tools
+
+- **Languages**: JavaScript (ES6+), TypeScript
+- **Front-End Framework**: React JS
+- **Styling**: Tailwind CSS, SASS
+- **Back-End**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Version Control**: Git & GitHub
+- **Deployment**: Vercel, Netlify, Heroku
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🧑‍💻 My Projects
+
+Here are some of the projects I'm proud of:
+
+- **Project 1**: Description of your project [GitHub Link](#)
+- **Project 2**: Description of your project [GitHub Link](#)
+- **Project 3**: Description of your project [GitHub Link](#)
+
+---
+
+## 💬 Get in Touch
+
+Feel free to reach out to me:
+
+- **Portfolio**: [Your Portfolio URL](#)
+- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn**: [Your LinkedIn](#)
+
+Looking forward to connecting and building something amazing together!
