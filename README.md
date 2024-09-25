@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate web developer who enjoys building
 - **Front-End Framework**: React JS
 - **Styling**: Tailwind CSS, SASS
 - **Back-End**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
+- **Databases**: MongoDB
 - **Version Control**: Git & GitHub
-- **Deployment**: Vercel, Netlify, Heroku
+- **Deployment**: Vercel
 
 ---
 
@@ -45,7 +45,7 @@ Here are some of the projects I'm proud of:
 Feel free to reach out to me:
 
 - **Portfolio**: [Your Portfolio URL](#)
-- **Email**: [youremail@example.com](jb.jeebanbeura@gmail.com)
+- **Email**: [jb.jeebanbeura@gamil.com]
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jeeban-beura?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Looking forward to connecting and building something amazing together!
