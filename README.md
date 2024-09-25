@@ -45,7 +45,7 @@ Here are some of the projects I'm proud of:
 Feel free to reach out to me:
 
 - **Portfolio**: [Your Portfolio URL](#)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn](#)
+- **Email**: [youremail@example.com](jb.jeebanbeura@gmail.com)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/jeeban-beura?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Looking forward to connecting and building something amazing together!
