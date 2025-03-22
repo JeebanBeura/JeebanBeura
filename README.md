@@ -1,14 +1,20 @@
-# Jeeban Beura
+<div align="center">
+  
+# ✨ Jeeban Beura ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&width=435&lines=MERN+Stack+Developer;React+Native+Specialist;Frontend+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Specialist;Frontend+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jee.vercel.app-00C647?style=for-the-badge&logo=vercel&logoColor=white)](https://jee.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeban--beura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeban-beura)
 [![Instagram](https://img.shields.io/badge/Instagram-decoding__life-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/decoding_life)
 
-![Coding Animation](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding Animation">
 
-## About Me
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ```javascript
 const jeeban = {
@@ -16,45 +22,203 @@ const jeeban = {
   role: "Full Stack Developer",
   specialization: ["MERN Stack", "React Native", "Frontend Architecture"],
   currentFocus: "Building scalable mobile applications",
+  hobbies: ["Coding", "Photography", "Exploring new tech"],
   education: "Computer Science Engineering"
 };
 ```
 
-## Tech Stack
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-### Frontend
-- React.js / React Native
-- JavaScript / TypeScript
-- Redux / Context API
-- HTML5 / CSS3
-- Tailwind CSS
+---
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- RESTful APIs
+<div align="center">
+  
+## 🛠️ Tech Stack
 
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Firebase
-- AWS / Vercel
-- Figma
+</div>
 
-## Featured Projects
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+      <br>Redux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+</table>
 
-- [Fylo Data Storage Component](https://github.com/JeebanBeura/Fylo-Data-Storage-Component) - A responsive data storage component built with CSS
-- [Technical Documentation Page](https://github.com/JeebanBeura/Technical-Documentation-Page) - Documentation page built with HTML
-- [Product Landing Page](https://github.com/JeebanBeura/Product-Landing-Page) - A responsive product landing page template
-- [QR Code Component](https://github.com/JeebanBeura/QR-code-component) - A reusable QR code generator component
+---
 
-## GitHub Stats
+## 💻 Coding Environment & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeebanBeura&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/React_Native_CLI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native CLI" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal" />
+</div>
 
-## Contact Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" alt="VS Code Animation">
+</div>
 
-- 📧 **Email**: jeeban@example.com
-- 📍 **Location**: Bhubaneswar, Odisha
-- 📌 **Open for**: Freelance and Full-time opportunities
+---
+
+<div align="center">
+  
+## 📊 GitHub Stats
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeebanBeura&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeebanBeura&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeebanBeura&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+---
+
+<div align="center">
+  
+## 👨‍💻 Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeebanBeura&theme=react-dark" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeebanBeura&theme=radical" alt="WakaTime Stats" />
+
+</div>
+
+---
+
+<div align="center">
+  
+## 🏆 Featured Projects
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/JeebanBeura/Fylo-Data-Storage-Component">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeebanBeura&repo=Fylo-Data-Storage-Component&theme=radical" />
+  </a>
+  <a href="https://github.com/JeebanBeura/Technical-Documentation-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeebanBeura&repo=Technical-Documentation-Page&theme=radical" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/JeebanBeura/Product-Landing-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeebanBeura&repo=Product-Landing-Page&theme=radical" />
+  </a>
+  <a href="https://github.com/JeebanBeura/QR-code-component">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeebanBeura&repo=QR-code-component&theme=radical" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+## 📝 Latest Blog Posts
+
+• [Building Performant React Native Apps](https://jee.vercel.app/blog/performant-react-native)
+• [MERN Stack Authentication Best Practices](https://jee.vercel.app/blog/mern-auth)
+• [State Management in 2025](https://jee.vercel.app/blog/state-management)
+
+</div>
+
+---
+
+<div align="center">
+  
+## 🚀 My Development Workflow
+
+```mermaid
+graph TD
+    A[Requirement Analysis] --> B[UI/UX Design]
+    B --> C[Frontend Development]
+    B --> D[Backend API Design]
+    D --> E[Backend Development]
+    C --> F[Integration]
+    E --> F
+    F --> G[Testing]
+    G --> H[Deployment]
+    H --> I[Maintenance & Updates]
+```
+
+</div>
+
+---
+
+<div align="center">
+  
+## 📫 Contact Me
+
+📧 **Email**: jeeban@example.com
+📍 **Location**: Bhubaneswar, Odisha
+📌 **Open for**: Freelance, Full-time opportunities
+
+<img src="https://komarev.com/ghpvc/?username=JeebanBeura&color=00C647&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+---
+
+<div align="center">
+  
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Code Animation">
+
+</div>
