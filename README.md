@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jee.vercel.app-00C647?style=for-the-badge&logo=vercel&logoColor=white)](https://jee.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeban--beura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeban-beura)
-[![Instagram](https://img.shields.io/badge/Instagram-decoding__life-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_decoding_life_)
+[![Instagram](https://img.shields.io/badge/Instagram-decoding__life-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_decoding__life_)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="Coding Animation">
 
