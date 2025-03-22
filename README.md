@@ -2,7 +2,7 @@
   
 # ✨ Jeeban Beura ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Specialist;Frontend+Expert;UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jee.vercel.app-00C647?style=for-the-badge&logo=vercel&logoColor=white)](https://jee.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeban--beura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeban-beura)
