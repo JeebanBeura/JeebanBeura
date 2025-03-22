@@ -23,7 +23,7 @@ const jeeban = {
   specialization: ["MERN Stack", "React Native", "Frontend Architecture"],
   currentFocus: "Building scalable mobile applications",
   hobbies: ["Coding", "Photography", "Exploring new tech"],
-  education: "Computer Science Engineering"
+  education: "Bsc ITM (Information Technology and Management anagement)"
 };
 ```
 
