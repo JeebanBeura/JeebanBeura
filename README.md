@@ -2,7 +2,7 @@
   
 # ✨ Jeeban Beura ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+Native+Developer;" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jee.vercel.app-00C647?style=for-the-badge&logo=vercel&logoColor=white)](https://jee.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeeban--beura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeeban-beura)
@@ -80,14 +80,6 @@ const jeeban = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
     </td>
   </tr>
 </table>
@@ -205,7 +197,7 @@ graph TD
   
 ## 📫 Contact Me
 
-📧 **Email**: jeeban@example.com
+📧 **Email**: jb.jeebanbeura@gmail.com
 📍 **Location**: Bhubaneswar, Odisha
 📌 **Open for**: Freelance, Full-time opportunities
 
