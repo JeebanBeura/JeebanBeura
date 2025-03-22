@@ -48,6 +48,10 @@ const jeeban = {
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       <br>Node.js
     </td>
@@ -76,6 +80,14 @@ const jeeban = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
   </tr>
 </table>
