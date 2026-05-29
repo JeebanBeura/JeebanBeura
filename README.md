@@ -222,21 +222,31 @@ Building and maintaining production-level web and mobile applications. Owning fe
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeebanBeura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=1800" alt="Jeeban's GitHub Stats"/>
+
+<!-- Stats — using github-stats.piyushsuthar.com (self-hosted, highly available) -->
+  <img height="180em" src="https://github-stats.piyushsuthar.com/api?username=JeebanBeura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Jeeban's GitHub Stats"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanBeura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+<!-- Top Languages — using github-readme-stats hosted by anuraghazra (most stable instance) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanBeura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JeebanBeura&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak Stats"/>
+
+<!-- Streak — using git.io/streak-stats which is the official canonical URL -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeebanBeura&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak Stats"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeebanBeura&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Jeeban's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+
+<!-- Activity Graph — vercel instance is stable -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeebanBeura&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF20&hide_border=true&custom_title=Jeeban's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+
 </div>
 
 ---
