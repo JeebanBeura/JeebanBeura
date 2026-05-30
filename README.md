@@ -131,9 +131,6 @@ Building and maintaining production-level web and mobile applications. Owning fe
 
 <div align="center">
 
-<!-- Trophy widget — reliable instance -->
-<img src="https://github-profile-trophy.vercel.app/?username=JeebanBeura&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
 </div>
 
 <br/>
@@ -156,11 +153,7 @@ Building and maintaining production-level web and mobile applications. Owning fe
 
 <div align="center">
 
-<!-- Stats — using github-stats.piyushsuthar.com (self-hosted, highly available) -->
-  <img height="180em" src="https://github-stats.piyushsuthar.com/api?username=JeebanBeura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Jeeban's GitHub Stats"/>
-  &nbsp;
-<!-- Top Languages — using github-readme-stats hosted by anuraghazra (most stable instance) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeebanBeura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
 
 </div>
 
